@@ -1,0 +1,7 @@
+- Vectors are lower-cased bold letters (non-bold is okay if clear)
+- Matrices are upper-cased bold letters (non-bold is okay if clear)
+- Random variables are capital letters
+- Reals and naturals use \mathbb format
+- Unless clear from context, shapes of vectors and matrices are specified.
+- Each mathematical symbol is clearly introduced in the text before it is used.
+- In math, all equations have balanced open and close parentheses.
