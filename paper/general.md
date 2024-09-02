@@ -1,7 +1,7 @@
 - Grammar and spelling are correct.
 - If there is an intro paragraph, it is adds clear structural value that is not just filler.
 - Writing is be in the present tense, even when describing work that you did in the past.
-- Experiemnt captions are declarative. Do not use `we`.
+- Experiment captions are declarative. Do not use `we`.
 - Graphics captions walks the reader through each step of the figure.
 - First sentence of result captions should define experiment.
 - If your \cite is used as a word in the sentence, use \citet, if it appears at the end of a sentence of phrase use \citep
